@@ -1,5 +1,4 @@
-# Col-Econ-Analysis
-Analysis of Economic Impacts of Venezuelan Migrants and Refugees in Colombia (2018)
+# Analysis of Economic Impacts of Venezuelan Migrants and Refugees in Colombia (2018)
 
 This repository contains preliminary econometric analysis of the relationship between Venezuelan forced migration and the economic prospects (employment, wages, and business ownership) of native Colombians. It contains the following files:
 
